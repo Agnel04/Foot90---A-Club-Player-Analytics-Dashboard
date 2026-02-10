@@ -26,6 +26,9 @@ The dataset is based on Transfermarkt-style football data and includes:
 
 The data is structured across multiple related tables to support scalable analysis.
 
+**Dataset Link :**
+https://www.kaggle.com/datasets/davidcariboo/player-scores
+
 ---
 
 ## 🧩 Data Model
