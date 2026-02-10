@@ -101,13 +101,5 @@ This structure enables advanced DAX calculations and smooth interactivity across
 - `Football.pbix` – Power BI report file
 - `README.md` – Project documentation
 
----
-
-## 🙌 Author
-
-**Agnel Mathew**  
-Aspiring Data Analyst | Power BI | Data Visualization | Sports Analytics
-
----
 
 *This project is created for educational and portfolio purposes.*
