@@ -1,0 +1,49 @@
+{
+  "name": "Football Insights Theme",
+  "dataColors": [
+    "#2E7D32",
+    "#4CAF50",
+    "#FFC107",
+    "#29B6F6",
+    "#EF6C00",
+    "#8E24AA",
+    "#D32F2F",
+    "#90A4AE"
+  ],
+  "background": "#0A1F2E",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#2E7D32",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#102A3A" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#CFD8DC" } }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#CFD8DC" } }
+          }
+        ]
+      }
+    }
+  }
+}
